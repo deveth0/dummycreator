@@ -1,3 +1,6 @@
+NOTE: this project is no longer maintained and superseded by https://github.com/bbottema/lorem-ipsum-objects
+
+
 DummyCreator
 Project home: http://code.google.com/p/dummycreator/
 Developed by 
